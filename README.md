@@ -1,6 +1,6 @@
 <p align="center">
 
-<img width=”200" height=”200" src="(https://user-images.githubusercontent.com/78978556/184721086-1c6b90bd-2c89-4fd3-b550-7505658a9d69.png" alt="my banner">
+<img width=”200" height=”200" src="https://user-images.githubusercontent.com/78978556/184721086-1c6b90bd-2c89-4fd3-b550-7505658a9d69.png" alt="my banner">
 
 </p>
 
@@ -26,3 +26,4 @@ Here I upload my projects and reports which i have worked on, please do check an
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Im allergic to Tea
 
+![Screenshot (462)](https://user-images.githubusercontent.com/78978556/184724016-fa8c25ff-d5f5-46dd-9957-21dbe238ca7e.png)
