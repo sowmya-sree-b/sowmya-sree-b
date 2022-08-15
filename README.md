@@ -18,7 +18,7 @@ Here I upload my projects and reports which i have worked on, please do check an
 - 🔭 I’m currently working on R Programming Projects 
 - 🌱 I’m currently learning ETL Techiniques
 - 👯 I’m looking to collaborate on Python and ETL
-- 🤔 I’m looking for help with to find a data analyst job
+- 🤔 I’m looking for help with finding a data analyst job
 - 💬 Ask me about "whats my secret sauce"
 - 📫 How to reach me: 
      Email : ssree92@yahoo.com
