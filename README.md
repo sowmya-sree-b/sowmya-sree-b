@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://user-images.githubusercontent.com/78978556/184724016-fa8c25ff-d5f5-46dd-9957-21dbe238ca7e.png" title="Screenshot (462)">
+<img src="https://user-images.githubusercontent.com/78978556/184724016-fa8c25ff-d5f5-46dd-9957-21dbe238ca7e.png" title="SSB">
 
 </p>
 
