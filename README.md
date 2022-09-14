@@ -13,7 +13,7 @@
 </p>
 
 
-Im a Data Analyst <img src="https://giphy.com/stickers/avanzabank-avanza-aza-candlestick-QvFcfanDdhRHXHeYLX" width="30" height="30">  with techinical background in Computer Science, Electronics & Communiation Engineering and Previously worked as Software Engineer(Junior).
+Im a Data Analyst <img src="https://user-images.githubusercontent.com/78978556/190268927-e034bee0-5fad-4f2a-957c-293ca249de2d.gif" width="30">  with techinical background in Computer Science, Electronics & Communiation Engineering and Previously worked as Software Engineer(Junior) <img src="https://user-images.githubusercontent.com/78978556/190268927-e034bee0-5fad-4f2a-957c-293ca249de2d.gif" width="30">.
 
 I love to be creative, Solve complex problems and be upto date with world new technologies. Im facinated about how Data plays a huge role these days in every aspect and corner of the world. Apart from what i do, i love hanging with new people and share ideas.
 
