@@ -49,5 +49,10 @@ Here I upload my projects and reports which I have worked on with different prob
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi" alt="RaspberryPi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/78978556/190282427-150712e8-21d4-4468-9668-91fc2fa10262.png)" title="Tableau" alt="Tableau" width="40" height="40"/>
+<img src="[https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg](https://user-images.githubusercontent.com/78978556/190282572-4c7eef7e-315b-404f-b8ce-c5471c8fd01a.jpg)" title="QlikSense" alt="QlikSense" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/78978556/190282723-f4a52c77-1a04-4043-b068-746886e45887.jpg" title="PowerBI" alt="PowerBI" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/78978556/190282891-7a64ed99-0144-46b3-9992-e13c7e756ad4.png" title="Google Colab" alt="Goolgle Colab" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/78978556/190283048-dbf29e80-7261-41df-a8b6-675387384fea.png" title="MS Excel" alt="MS Excel" width="40" height="40"/>
 </div>
