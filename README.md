@@ -55,5 +55,5 @@ Here I upload my projects and reports which I have worked on with different prob
 <img src="https://user-images.githubusercontent.com/78978556/190285581-5ff20cef-ee79-42c8-8d82-084bef6a3438.png" title="QlikSense" alt="QlikSense" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/78978556/190283723-b8273522-9efc-43f3-a0d8-377b95c133ba.png" title="PowerBI" alt="PowerBI" width="40" height="40"/>
 <img src="https://user-images.githubusercontent.com/78978556/190282891-7a64ed99-0144-46b3-9992-e13c7e756ad4.png" title="Google Colab" alt="Goolgle Colab" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/78978556/190284471-611b5558-9070-481a-a54f-73f59cf3fc99.png" title="MS Excel" alt="MS Excel" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/78978556/190286209-512dcaae-fa5d-47b4-97d0-9f732b618ff9.png" title="MS Excel" alt="MS Excel" width="40" height="40"/>
 </div>
