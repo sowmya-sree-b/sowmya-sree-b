@@ -52,7 +52,7 @@ Here I upload my projects and reports which I have worked on with different prob
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
 <img src="https://user-images.githubusercontent.com/78978556/190282427-150712e8-21d4-4468-9668-91fc2fa10262.png)" title="Tableau" alt="Tableau" width="40" height="40"/>
 <img src="[https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg](https://user-images.githubusercontent.com/78978556/190282572-4c7eef7e-315b-404f-b8ce-c5471c8fd01a.jpg)" title="QlikSense" alt="QlikSense" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/78978556/190283419-8a366697-cf86-403d-98ae-631a506f8692.png" title="PowerBI" alt="PowerBI" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/78978556/190283723-b8273522-9efc-43f3-a0d8-377b95c133ba.png)" title="PowerBI" alt="PowerBI" width="40" height="40"/>
 <img src="https://user-images.githubusercontent.com/78978556/190282891-7a64ed99-0144-46b3-9992-e13c7e756ad4.png" title="Google Colab" alt="Goolgle Colab" width="40" height="40"/>
 <img src="https://user-images.githubusercontent.com/78978556/190283048-dbf29e80-7261-41df-a8b6-675387384fea.png" title="MS Excel" alt="MS Excel" width="40" height="40"/>
 </div>
