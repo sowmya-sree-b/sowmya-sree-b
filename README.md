@@ -50,7 +50,7 @@ Here I upload my projects and reports which I have worked on with different prob
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi" alt="RaspberryPi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/78978556/190284504-70099465-12ee-4230-8830-81c718ab6c5e.png" title="Tableau" alt="Tableau" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/78978556/190284973-8fd9e5ad-8d67-4d66-9e84-914d2cb78b3f.jpg" title="Tableau" alt="Tableau" width="40" height="40"/>
 <img src="https://user-images.githubusercontent.com/78978556/190282572-4c7eef7e-315b-404f-b8ce-c5471c8fd01a.jpg" title="QlikSense" alt="QlikSense" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/78978556/190283723-b8273522-9efc-43f3-a0d8-377b95c133ba.png" title="PowerBI" alt="PowerBI" width="40" height="40"/>
 <img src="https://user-images.githubusercontent.com/78978556/190282891-7a64ed99-0144-46b3-9992-e13c7e756ad4.png" title="Google Colab" alt="Goolgle Colab" width="40" height="40"/>
