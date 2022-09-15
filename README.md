@@ -48,10 +48,11 @@ Here I upload my projects and reports which I have worked on with different prob
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy"  alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi" alt="RaspberryPi" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/78978556/190284973-8fd9e5ad-8d67-4d66-9e84-914d2cb78b3f.jpg" title="Tableau" alt="Tableau" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/78978556/190282572-4c7eef7e-315b-404f-b8ce-c5471c8fd01a.jpg" title="QlikSense" alt="QlikSense" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/78978556/190285199-af41ccd4-6867-43ce-8a6d-6b3902951f04.svg" title="Tableau" alt="Tableau" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/78978556/190285581-5ff20cef-ee79-42c8-8d82-084bef6a3438.png" title="QlikSense" alt="QlikSense" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/78978556/190283723-b8273522-9efc-43f3-a0d8-377b95c133ba.png" title="PowerBI" alt="PowerBI" width="40" height="40"/>
 <img src="https://user-images.githubusercontent.com/78978556/190282891-7a64ed99-0144-46b3-9992-e13c7e756ad4.png" title="Google Colab" alt="Goolgle Colab" width="40" height="40"/>
 <img src="https://user-images.githubusercontent.com/78978556/190284471-611b5558-9070-481a-a54f-73f59cf3fc99.png" title="MS Excel" alt="MS Excel" width="40" height="40"/>
