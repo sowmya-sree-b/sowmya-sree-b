@@ -1,9 +1,3 @@
-<p align="center">
-
-<img src="https://user-images.githubusercontent.com/78978556/190265133-134ba7a4-dc03-4728-b6d7-57cbdf711085.gif" title="Hi_There" height="400">
-     
-</p>
-
 ### Hi There!! Let me introduce myself. <img src="https://user-images.githubusercontent.com/78978556/190271415-4beddcd4-cf42-4e42-8ffe-8ff2f1f606ce.gif" width="30"> 
 
 <p align="center">
@@ -13,7 +7,7 @@
 </p>
 
 
-I'm a Data Analyst <img src="https://user-images.githubusercontent.com/78978556/190268927-e034bee0-5fad-4f2a-957c-293ca249de2d.gif" width="30"> with technical background in Computer Science, Electronics & Communication Engineering and previously worked as Software Engineer(Junior) <img src="https://user-images.githubusercontent.com/78978556/190270649-43568167-00bc-4d2a-92e5-a18d37bb3a6d.gif" width="25" height="15">.
+I'm a Data Engineer with technical background in Computer Science, Electronics & Communication Engineering. Has previously wored as Data analyst <img src="https://user-images.githubusercontent.com/78978556/190268927-e034bee0-5fad-4f2a-957c-293ca249de2d.gif" width="30"> and Software Engineer(Junior) <img src="https://user-images.githubusercontent.com/78978556/190270649-43568167-00bc-4d2a-92e5-a18d37bb3a6d.gif" width="25" height="15">.
 
 I love <img src="https://user-images.githubusercontent.com/78978556/190273233-ae8dc057-1684-45d5-a713-20de9cf38d0b.gif" width="18" height="15">  to be creative, Solve complex problems and be upto date with world new technologies. I'm fascinated about how data plays a huge role these days in every aspect and corner of the world <img src="https://user-images.githubusercontent.com/78978556/190273539-02ce9feb-18a1-458a-9380-1a722f64995a.gif" width="15">. Apart from professional life, during my personal and ingenious time, I love hanging with new people and share ideas <img src="https://user-images.githubusercontent.com/78978556/190274998-63d8dba1-2bad-426d-bc0f-a47bceae2bc8.gif" width="15">.
 
@@ -22,11 +16,12 @@ Welcome to my GitHub <img src="https://user-images.githubusercontent.com/7897855
 Here I upload my projects and reports which I have worked on with different problems, please do check and feel free to comment your ideas on the projects.
 
 
-- 🔭 I’m currently working on R Programming Projects 
-- 🌱 I’m currently learning ETL Techniques
-- 👯 I’m looking to collaborate on Python and ETL
+- 🔭 I’m currently focused on Data engineering  
+- 🌱 I’m currently developing on data engineering skills 
+- 👯 I’m looking to collaborate on Finance management 
 - 💬 Ask me about "whats my secret sauce"
 - 📫 How to reach me: 
+     Instagram : supriseshutter.vlog
      Email : ssree92@yahoo.com
      Twitter: @SowmyaSreeB
 - 😄 Pronouns: She/Her
